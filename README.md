@@ -5,8 +5,7 @@ desc
 ### title test 3
 - Check
 
-   Merge (1 or more commits): Simple merge commit, no-ff, pull request comment as commit message detail
-
+   Merge (1 or more commits): Simple merge commit, no-ff, pull request comment as commit message detail  
    Rebase and merge (1 commit): no merge commit, ff-merge
 
 + Check2
